@@ -15,11 +15,7 @@ The models were trained and tested using scikit-learn's train-test split and eva
 ## Results
 The best accuracy score achieved was **93%** using **Random Forest Classifier**.
 
-## Installation and Usage
-To run this project, ensure you have Python installed along with the necessary libraries:
-- **scikit-learn**
-- **pandas**
-- **numpy**
+
 
 
 
